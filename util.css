@@ -1,0 +1,6 @@
+/* it will hold the utility classes  */
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
